@@ -28,10 +28,10 @@ Quick Link
 # Table of Content
 - [Introduction](#1-introduction)
 - [Business Problem](#2-business-problem)
-  - [Challenges](#3-challenges)
+- [Challenges](#3-challenges)
 - [Usage](#3-usage)
-  - [Basic Usage](#31-basic-usage)
-  - [Advanced Usage](#32-advanced-usage)
+- [Basic Usage](#31-basic-usage)
+- [Advanced Usage](#32-advanced-usage)
 - [Examples](#4-examples)
 - [Conclusion](#5-conclusion)
 
