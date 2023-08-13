@@ -7,7 +7,7 @@ Quick Link
 [GitHub]:https://github.com/mademoixcel
 [Medium]:https://medium.com/@zehidata
 
-[![Status](https://img.shields.io/badge/status-active-success.svg)]() [![GitHub Issues](https://img.shields.io/github/issues/wjsutton/data_with_danny_8_week_sql_challenge.svg)](https://github.com/wjsutton/data_with_danny_8_week_sql_challenge/issues) [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/wjsutton/data_with_danny_8_week_sql_challenge.svg)](https://github.com/wjsutton/data_with_danny_8_week_sql_challenge/pulls) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
+
 
 
 
