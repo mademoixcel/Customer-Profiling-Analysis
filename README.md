@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <h1>  Customer-Segmentation-Analysis  🛍️🛒</h1>
+  <h1>  Customer Profiling and Segmentation Analysis  🛍️🛒</h1>
 </div> 
 <p align="center"> 
   
@@ -18,7 +18,7 @@ Quick Link
 
 # Table of Content
 - [Introduction](#1-introduction)
-- [Installation](#2-installation)
+- [Business Problem](#2-Business Problem)
 - [Usage](#3-usage)
   - [Basic Usage](#31-basic-usage)
   - [Advanced Usage](#32-advanced-usage)
