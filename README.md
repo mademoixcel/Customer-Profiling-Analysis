@@ -49,7 +49,9 @@ The dataset was updated 4 months ago on [Kaggle](https://www.kaggle.com/datasets
 
 ## 2. Business Problem
 
-![images (16)](https://github.com/mademoixcel/Customer-Profiling-Analysis/assets/124081194/2998088f-87aa-4a70-8a62-3755e94c6d14)
+![eb0dac0e4bb1e60a83b2a2727c4eff18](https://github.com/mademoixcel/Customer-Profiling-Analysis/assets/124081194/ecdbab3a-d8f6-4abf-8018-ae4732930037)
+
+
 
 
 A well-established retail chain with a store and an online presence is facing challenges in effectively targeting its diverse customer base with relevant marketing campaigns. The company wants to leverage customer profiling and segmentation techniques to enhance its marketing strategies and create personalized experiences for its customers. The goal is to increase customer engagement, drive higher sales, and improve overall customer satisfaction.
