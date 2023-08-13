@@ -1,3 +1,18 @@
+[LinkedIn :necktie:][LinkedIn] &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[GitHub :octocat:][GitHub]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Medium 📖][Medium]
+
+<!--
+Quick Link 
+-->
+[LinkedIn]:https://www.linkedin.com/in/zehida-thabit-86583a228/
+[GitHub]:https://github.com/mademoixcel
+[Medium]:https://medium.com/@zehidata
+
+[![Status](https://img.shields.io/badge/status-active-success.svg)]() [![GitHub Issues](https://img.shields.io/github/issues/wjsutton/data_with_danny_8_week_sql_challenge.svg)](https://github.com/wjsutton/data_with_danny_8_week_sql_challenge/issues) [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/wjsutton/data_with_danny_8_week_sql_challenge.svg)](https://github.com/wjsutton/data_with_danny_8_week_sql_challenge/pulls) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
+
+
+
+
+
 <div style="text-align: center;">
   <h1>  Customer Profiling and Segmentation Analysis    🛍️🛒</h1>
 </div> 
@@ -9,17 +24,6 @@
   <img width="500" height="250" src="https://sourcificconsulting.co.uk/wp-content/uploads/image19.gif">
 </p>
 
-
-[LinkedIn :necktie:][LinkedIn] &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[GitHub :octocat:][GitHub]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Medium 📖][Medium]
-
-<!--
-Quick Link 
--->
-[LinkedIn]:https://www.linkedin.com/in/zehida-thabit-86583a228/
-[GitHub]:https://github.com/mademoixcel
-[Medium]:https://medium.com/@zehidata
-
-[![Status](https://img.shields.io/badge/status-active-success.svg)]() [![GitHub Issues](https://img.shields.io/github/issues/wjsutton/data_with_danny_8_week_sql_challenge.svg)](https://github.com/wjsutton/data_with_danny_8_week_sql_challenge/issues) [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/wjsutton/data_with_danny_8_week_sql_challenge.svg)](https://github.com/wjsutton/data_with_danny_8_week_sql_challenge/pulls) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
 # Table of Content
 - [Introduction](#1-introduction)
