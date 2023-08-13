@@ -1,11 +1,11 @@
 <div style="text-align: center;">
-  <h1>  Customer Profiling and Segmentation Analysis  🛍️🛒</h1>
+  <h1>  Customer Profiling and Segmentation Analysis    🛍️🛒</h1>
 </div> 
 <p align="center"> 
 
 
   
-  <img width="10000" height="250" src="https://blog.intercomassets.com/blog/wp-content/uploads/2020/10/Customer-segmentation-performance-matrix.png">
+<img width="10000" height="250" src="https://blog.intercomassets.com/blog/wp-content/uploads/2020/10/Customer-segmentation-performance-matrix.png">
 </p>
 
 
@@ -37,8 +37,6 @@ Quick Link
 In a rapidly evolving business environment, tailoring marketing efforts to meet customer preferences has become a decisive factor for success. This project focuses on a fictional retail store that operates through multiple channels and aims to enhance its marketing strategies through customer profiling and segmentation.
 The dataset was updated 4 months ago on [Kaggle](https://www.kaggle.com/datasets/somesh140/segmentation)
 
-#### Cleaning and Transformation of the dataset was done with Microsoft Excel, Queries were written in PostgreSQL, and Visualization was done with Power BI 
- 
 
 
 
