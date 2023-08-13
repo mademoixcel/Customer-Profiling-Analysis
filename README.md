@@ -37,7 +37,8 @@ Quick Link
 
 ## 1. Introduction 
 
-![download (35)](https://github.com/mademoixcel/Customer-Profiling-Analysis/assets/124081194/81a5b5ec-1759-4c84-87d5-57600064d537)
+![img_1](https://github.com/mademoixcel/Customer-Profiling-Analysis/assets/124081194/74c340b1-d912-400a-ad4e-862f8a8ea7f2)
+
 
 In a rapidly evolving business environment, tailoring marketing efforts to meet customer preferences has become a decisive factor for success. This project focuses on a fictional retail store that operates through multiple channels and aims to enhance its marketing strategies through customer profiling and segmentation.
 The dataset was updated 4 months ago on [Kaggle](https://www.kaggle.com/datasets/somesh140/segmentation)
@@ -54,6 +55,10 @@ The dataset was updated 4 months ago on [Kaggle](https://www.kaggle.com/datasets
 A well-established retail chain with a store and an online presence is facing challenges in effectively targeting its diverse customer base with relevant marketing campaigns. The company wants to leverage customer profiling and segmentation techniques to enhance its marketing strategies and create personalized experiences for its customers. The goal is to increase customer engagement, drive higher sales, and improve overall customer satisfaction.
 
 ## 3. Challenges:
+![Business-Challenges](https://github.com/mademoixcel/Customer-Profiling-Analysis/assets/124081194/e2961b79-313c-44f2-862d-5dcd5efeba9a)
+
+
+
 
 <b>Diverse Customer Base:</b> The retail chain has customers – with different age distribution, different shopping patterns, and they like different things. Trying to use the same marketing for everyone doesn't work anymore because each group of customers is unique.
 
