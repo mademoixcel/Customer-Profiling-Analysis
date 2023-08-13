@@ -3,5 +3,5 @@
 </div> 
 
 <p align="center">
-  <img width="1500" height="350" src="https://blog.intercomassets.com/blog/wp-content/uploads/2020/10/Customer-segmentation-performance-matrix.png">
+  <img width="2500" height="350" src="https://blog.intercomassets.com/blog/wp-content/uploads/2020/10/Customer-segmentation-performance-matrix.png">
 </p>
