@@ -30,10 +30,7 @@ Quick Link
 - [Business Problem](#2-business-problem)
 - [Challenges](#3-challenges)
 - [Objectives](#4-objectives)
-- [Basic Usage](#31-basic-usage)
-- [Advanced Usage](#32-advanced-usage)
-- [Examples](#4-examples)
-- [Conclusion](#5-conclusion)
+
 
 ## 1. Introduction 
 
