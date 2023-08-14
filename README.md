@@ -94,4 +94,4 @@ The main aim of this project is to develop an advanced strategy for understandin
 4. On average, individuals without children tend to spend more than those who do have children.
 
 
-Click here to read the detailed description of this project.
+  Click here to read the detailed description of this project.
