@@ -30,8 +30,8 @@ Quick Link
 - [Business Problem](#2-business-problem)
 - [Challenges](#3-challenges)
 - [Objectives](#4-objectives)
-
-
+- [Methodology](#5-methodology)
+- [Key Findings](#6-key-findings)
 ## 1. Introduction 
 
 ![img_1](https://github.com/mademoixcel/Customer-Profiling-Analysis/assets/124081194/74c340b1-d912-400a-ad4e-862f8a8ea7f2)
@@ -68,12 +68,22 @@ A well-known retail company with a physical location and an online presence is h
 The main aim of this project is to develop an advanced strategy for understanding customers and sorting them into different groups. This will allow the retail chain to send personalized marketing messages. The project seeks to accomplish the following goals:
 
 1. Create a plan to gather detailed information about customers and categorize them into different types.
+   
+2. Use these methods to help the store improve its performance and attract more customers who will enjoy their products.
+   
+## 5. Methodology
 
-2. Send customized messages to each group to provide them with a better shopping experience.
+Data Collection: Kaggle
+Data Cleaning and Transformation: Microsoft Excel
+Data Querying: PostgreSQL
+Data Visualization: Power BI
 
-3. Use these methods to help the store improve its performance and attract more customers who will enjoy their products.
+## 6. Key Findings
 
+1. About 1 in every 5 customers accepts any of the campaigns.
 
+2. Wine is the most sold product in the last 2 years
 
+3. The 4th campaign was the most successful campaign.
 
-
+4. On average, individuals without children tend to spend more than those who do have children.
