@@ -72,11 +72,16 @@ The main aim of this project is to develop an advanced strategy for understandin
 2. Use these methods to help the store improve its performance and attract more customers who will enjoy their products.
    
 ## 5. Methodology
+| Stage                       | Description                                                   | Tools/Platforms          |
+|-----------------------------|---------------------------------------------------------------|--------------------------|
+| Data Collection             | Gathering relevant data from Kaggle platform.                 | Kaggle                   |
+| Data Cleaning and Transformation | Preparing collected data through cleaning and transformation. | Microsoft Excel         |
+| Data Querying               | Extracting specific information using PostgreSQL.            | PostgreSQL              |
+| Data Visualization          | Creating visual representations of analyzed data.             | Power BI                |
 
-Data Collection: Kaggle
-Data Cleaning and Transformation: Microsoft Excel
-Data Querying: PostgreSQL
-Data Visualization: Power BI
+
+
+
 
 ## 6. Key Findings
 
@@ -87,3 +92,6 @@ Data Visualization: Power BI
 3. The 4th campaign was the most successful campaign.
 
 4. On average, individuals without children tend to spend more than those who do have children.
+
+
+Click here to read the detailed description of this project.
