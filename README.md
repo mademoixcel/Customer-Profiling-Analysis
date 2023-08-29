@@ -77,7 +77,7 @@ The main aim of this project is to develop an advanced strategy for understandin
 | Data Collection             | Gathering relevant data from Kaggle platform.                 | [Kaggle](https://www.kaggle.com/datasets/somesh140/segmentation)                   |
 | Data Cleaning and Transformation | Preparing collected data through cleaning and transformation. | Microsoft Excel         |
 | Data Querying               | Extracting specific information using PostgreSQL.            | PostgreSQL              |
-| Data Visualization          | Creating visual representations of analyzed data.             | Power BI                |
+| Data Visualization          | Creating visual representations of analyzed data.             | [Power BI ](https://app.powerbi.com/view?r=eyJrIjoiMzhlNDEwODctMTc5NC00MzViLWI1YWQtMDIzYzY0NWFmYjgzIiwidCI6IjA2NmM4OTg0LWZmOTgtNDM1NC04YTdhLWZhY2I1NGE0YjUyOSJ9)               |
 
 
 
