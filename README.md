@@ -91,7 +91,7 @@ The main aim of this project is to develop an advanced strategy for understandin
 
 3. On average, individuals without children tend to spend more than those who do have children.
 
-4. Old people spend more on gold products compared to other age groups
+4. On average, old people spend more on gold products compared to other age groups
 
 5. August, May, October, and March produced more new customers than any other month.
  
