@@ -85,13 +85,15 @@ The main aim of this project is to develop an advanced strategy for understandin
 
 ## 6. Key Findings
 
-1. About 1 in every 5 customers accepts any of the campaigns.
+1. Wine is the most sold product in the last 2 years
 
-2. Wine is the most sold product in the last 2 years
+2. The 4th campaign was the most successful campaign.
 
-3. The 4th campaign was the most successful campaign.
+3. On average, individuals without children tend to spend more than those who do have children.
 
-4. On average, individuals without children tend to spend more than those who do have children.
+4. Old people spend more on gold products compared to other age groups
 
+5. August, May, October, and March produced more new customers than any other month.
+ 
 
-  Click here to read the detailed description of this project.
+Click [here](https://medium.com/@zehidata/customer-profiling-and-segmentation-b49651b96364) to read the detailed description of this project.
