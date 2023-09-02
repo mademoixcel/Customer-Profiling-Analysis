@@ -37,7 +37,7 @@ Quick Link
 ![img_1](https://github.com/mademoixcel/Customer-Profiling-Analysis/assets/124081194/74c340b1-d912-400a-ad4e-862f8a8ea7f2)
 
 
-In a world where businesses are always changing, it's super important to change how we do marketing to match what customers like. This project focuses on a fictional retail store that operates through multiple channels and aims to enhance its marketing strategies through customer profiling and segmentation.
+This project focuses on a fictional retail store that operates through multiple channels and aims to enhance its marketing strategies through customer profiling and segmentation.
 The dataset was updated 4 months ago on [Kaggle](https://www.kaggle.com/datasets/somesh140/segmentation)
 
 
@@ -65,7 +65,7 @@ A well-known retail company with a physical location and an online presence is h
 
 ## 4. Objectives:
 
-The main aim of this project is to develop an advanced strategy for understanding customers and sorting them into different groups. This will allow the retail chain to send personalized marketing messages. The project seeks to accomplish the following goals:
+The main aim of this project is to develop a strategy for understanding customers and sorting them into different groups. This will allow the retail chain to send personalized marketing messages. The project seeks to accomplish the following goals:
 
 1. Create a plan to gather detailed information about customers and categorize them into different types.
    
