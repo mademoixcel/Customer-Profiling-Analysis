@@ -93,7 +93,7 @@ The main aim of this project is to develop a strategy for understanding customer
 
 4. On average, old people spend more on gold products compared to other age groups
 
-5. August, May, October, and March produced more new customers than any other month.
+5. August, May, October, and March produced new customers than any other month.
  
 
 Click [here](https://medium.com/@zehidata/customer-profiling-and-segmentation-b49651b96364) to read the detailed description of this project.
